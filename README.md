@@ -29,20 +29,6 @@ This project is a complete **Book Management System** that allows users to perfo
 
 ---
 
-## 📂 Project Structure  
-```bash
-crud-manajemenbuku/
-├── index.php         # Main page (displays books)
-├── tambah.php        # Add new book form
-├── edit.php          # Edit existing book form
-├── hapus.php         # Delete book handler
-├── koneksi.php       # Database connection setup
-├── style.css         # Global styles
-└── README.md         # Project documentation
-```
-
----
-
 ## 🛠️ Installation Guide  
 
 ### Prerequisites:  
